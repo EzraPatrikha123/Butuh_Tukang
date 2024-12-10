@@ -1,16 +1,10 @@
-# latihanpaket1
+# Butuh Tukang
 
-A new Flutter project.
+A project about an app called "Butuh Tukang"
 
-## Getting Started
+## Still in progress :/
 
-This project is a starting point for a Flutter application.
+This project is still not complete, can be seen by how many view it has
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is the picture of the app:
+-![Homepage](assets/CIA.jpeg)
